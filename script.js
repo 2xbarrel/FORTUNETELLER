@@ -10,3 +10,6 @@ button.addEventListener("click", e => {
     cardname.innerHTML = reading[arcana].name;
     telling.innerHTML = reading[arcana].readings[readingsNum];
 });
+
+
+// woaw look i made a change to the file and now i will upload it on github
